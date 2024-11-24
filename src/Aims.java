@@ -6,6 +6,7 @@ public class Aims {
         DigitalVideoDisc dvd1 = new DigitalVideoDisc("The Lion King");
         DigitalVideoDisc dvd2 = new DigitalVideoDisc("Animation", "Frozen", 19.95f);
         DigitalVideoDisc dvd3 = new DigitalVideoDisc("James Cameron", "Action", "Avatar", 24.99f);
+        DigitalVideoDisc dvd4 = new DigitalVideoDisc("Red One");
 
         cart.addDigitalVideoDisc(dvd1);
         cart.addDigitalVideoDisc(dvd2);
